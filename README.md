@@ -20,3 +20,14 @@ With **GitGenie**, you can:
 - ✅ **Modify README files** with AI-powered suggestions
 - ✅ **Enhance content** using dynamic emoji integration
 - ✅ **Commit and push changes** instantly
+
+
+## 🛠 MERN Stack Used
+
+| Technology  | Description |
+|------------|-------------|
+| **MongoDB** | NoSQL database for storing repository stats |
+| **Express.js** | Backend framework to handle API requests |
+| **React.js** | Frontend UI for displaying repo statistics |
+| **Node.js** | JavaScript runtime for server-side logic |
+| **GitHub API** | Fetch real-time repository data |
